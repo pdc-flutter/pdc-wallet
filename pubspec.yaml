@@ -1,7 +1,7 @@
 name: pdc_wallet
 description: A dart Bitcoin library for Flutter. BIP32, BIP39, P2PKH integration.
 version: 2.0.2
-homepage: https://github.com/anicdh
+homepage: https://github.com/pdc-flutter
 author: JUS <ragislam@gmail.com>
 
 environment:
